@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69912585004",
+    "project_id": "project-cb911",
+    "storage_bucket": "project-cb911.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69912585004:android:6141fe5a22929ba63e8289",
+        "android_client_info": {
+          "package_name": "com.example.lab4map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZFneqHmhwGr6QlhPf_mzfbEdAsBhhCu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

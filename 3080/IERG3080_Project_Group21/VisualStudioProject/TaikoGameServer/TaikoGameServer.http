@@ -1,0 +1,6 @@
+@TaikoGameServer_HostAddress = http://localhost:5112
+
+GET {{TaikoGameServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

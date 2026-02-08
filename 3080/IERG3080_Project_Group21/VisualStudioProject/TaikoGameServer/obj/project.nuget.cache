@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "5iNPE7xLR50=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ccche\\Downloads\\IERG3080_Project_Group21\\VisualStudioProject\\taikogameserver\\TaikoGameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccche\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
+    "C:\\Users\\ccche\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\ccche\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.1.0\\microsoft.aspnetcore.signalr.1.1.0.nupkg.sha512",
+    "C:\\Users\\ccche\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "將不會剪除 PackageReference Microsoft.AspNetCore.SignalR。請考慮從相依性中移除此套件，因為它可能非必要。",
+      "projectPath": "C:\\Users\\ccche\\Downloads\\IERG3080_Project_Group21\\VisualStudioProject\\taikogameserver\\TaikoGameServer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ccche\\Downloads\\IERG3080_Project_Group21\\VisualStudioProject\\taikogameserver\\TaikoGameServer.csproj",
+      "libraryId": "Microsoft.AspNetCore.SignalR",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "將不會剪除 PackageReference Microsoft.AspNetCore.Cors。請考慮從相依性中移除此套件，因為它可能非必要。",
+      "projectPath": "C:\\Users\\ccche\\Downloads\\IERG3080_Project_Group21\\VisualStudioProject\\taikogameserver\\TaikoGameServer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ccche\\Downloads\\IERG3080_Project_Group21\\VisualStudioProject\\taikogameserver\\TaikoGameServer.csproj",
+      "libraryId": "Microsoft.AspNetCore.Cors",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

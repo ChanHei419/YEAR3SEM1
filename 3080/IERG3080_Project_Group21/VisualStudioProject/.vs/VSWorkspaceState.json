@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TaikoGame",
+    "\\TaikoGameServer",
+    "\\TaikoGameServer\\bin",
+    "\\TaikoGameServer\\bin\\Release",
+    "\\TaikoGameServer\\bin\\Release\\net10.0",
+    "\\TaikoGameServer\\bin\\Release\\net10.0\\publish"
+  ],
+  "SelectedNode": "\\TaikoGame\\TaikoGame.sln",
+  "PreviewInSolutionExplorer": false
+}

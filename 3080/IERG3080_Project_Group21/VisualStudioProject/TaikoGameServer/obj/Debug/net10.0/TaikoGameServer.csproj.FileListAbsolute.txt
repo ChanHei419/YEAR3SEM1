@@ -1,0 +1,231 @@
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\appsettings.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.exe
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.deps.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\scopedcss\bundle\TaikoGameServer.styles.css
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGam.471BAAC2.Up2Date
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\refint\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGameServer\obj\Debug\net10.0\ref\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\appsettings.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.exe
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.deps.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\scopedcss\bundle\TaikoGameServer.styles.css
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGam.471BAAC2.Up2Date
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\refint\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\ref\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\appsettings.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.exe
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.deps.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\scopedcss\bundle\TaikoGameServer.styles.css
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGam.471BAAC2.Up2Date
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\refint\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\TaikoGameServer.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGameServer\obj\Debug\net10.0\ref\TaikoGameServer.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\appsettings.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.exe
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.deps.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.runtimeconfig.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.AssemblyInfo.cs
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\scopedcss\bundle\TaikoGameServer.styles.css
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGam.471BAAC2.Up2Date
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\refint\TaikoGameServer.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.genruntimeconfig.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogameserver\obj\Debug\net10.0\ref\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\appsettings.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.exe
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.deps.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\scopedcss\bundle\TaikoGameServer.styles.css
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGam.471BAAC2.Up2Date
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\refint\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\TaikoGameServer.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080Project1zzz\taikogameserver\obj\Debug\net10.0\ref\TaikoGameServer.dll
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\appsettings.json
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\TaikoGameServer.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\TaikoGameServer.exe
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\TaikoGameServer.deps.json
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\TaikoGameServer.runtimeconfig.json
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ccche\Downloads\t22\taikogameserver\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.AssemblyInfo.cs
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\scopedcss\bundle\TaikoGameServer.styles.css
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGam.471BAAC2.Up2Date
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\refint\TaikoGameServer.dll
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\TaikoGameServer.genruntimeconfig.cache
+C:\Users\ccche\Downloads\t22\taikogameserver\obj\Debug\net10.0\ref\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\appsettings.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\TaikoGameServer.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\TaikoGameServer.exe
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\TaikoGameServer.deps.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\TaikoGameServer.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\scopedcss\bundle\TaikoGameServer.styles.css
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGam.471BAAC2.Up2Date
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\refint\TaikoGameServer.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\TaikoGameServer.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogameserver\obj\Debug\net10.0\ref\TaikoGameServer.dll

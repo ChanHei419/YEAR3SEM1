@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IERG3080 作業解答與教學 (修正版)</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+    </script>
+    <style>
+        body {
+            font-family: "Microsoft JhengHei", "Heiti TC", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 40px;
+            border-left: 5px solid #2980b9;
+            padding-left: 10px;
+        }
+        .question-box {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .explanation {
+            background-color: #e8f6f3;
+            border-left: 4px solid #1abc9c;
+            padding: 15px;
+            margin: 15px 0;
+            font-size: 0.95em;
+        }
+        .explanation strong {
+            color: #16a085;
+        }
+        .diagram-container {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+            background-color: white;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        code {
+            background-color: #f0f0f0;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-family: Consolas, monospace;
+            color: #c7254e;
+        }
+        .ppt-ref {
+            font-size: 0.85em;
+            color: #7f8c8d;
+            margin-top: 5px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>IERG3080 Assignment #2 解答與教學 (修正版)</h1>
+    <p style="text-align: center;">根據 Lecture 3 (UML) 與 Lecture 9 (Testing) 講義內容製作</p>
+
+    <!-- Question 7 -->
+    <div class="question-box">
+        <h2>Q7. Draw the class diagram of the code shown in Q2.</h2>
+        <p><strong>程式碼片段：</strong></p>
+        <pre><code>class MyClass&lt;T&gt; {
+    public static T GenItem(){
+        return new T();
+    }
+}</code></pre>
+
+        <div class="explanation">
+            <h3>👨‍🏫 教學解說</h3>
+            <p>這題考的是<strong>泛型類別 (Generic Class)</strong> 的畫法。</p>
+            <ul>
+                <li><strong>概念：</strong> 根據 <code>lec3_uml (2).pdf</code> <strong>第 18 頁 (Template Class)</strong>，泛型參數（如 <code>T</code>）應該畫在類別名稱右上角的虛線方框中。</li>
+                <li><strong>方法：</strong>
+                    <ol>
+                        <li>畫一個類別框，名稱為 <code>MyClass</code>。</li>
+                        <li>在右上角標註泛型參數 <code>T</code>。</li>
+                        <li>加入方法 <code>GenItem</code>。因為它是 <code>public</code>，前面加 <code>+</code>。</li>
+                        <li>因為它是 <code>static</code> 方法，根據 UML 標準通常加底線（或如 PPT 第 6 頁所示用 <code>$</code>）。</li>
+                        <li>回傳型別是 <code>T</code>。</li>
+                    </ol>
+                </li>
+            </ul>
+            <span class="ppt-ref">📚 參考來源: lec3_uml (2).pdf, Slide 18</span>
+        </div>
+
+        <div class="diagram-container">
+            <div class="mermaid">
+                classDiagram
+                class MyClass~T~ {
+                    +GenItem() T$
+                }
+            </div>
+        </div>
+    </div>
+
+    <!-- Question 8 -->
+    <div class="question-box">
+        <h2>Q8. Draw the class diagram of the code shown in Q6.</h2>
+        <p><strong>程式碼片段：</strong></p>
+        <pre><code>public class A { public virtual void foo() ... }
+public class B : A { public override void foo() ... }</code></pre>
+
+        <div class="explanation">
+            <h3>👨‍🏫 教學解說</h3>
+            <p>這題考的是<strong>繼承 (Inheritance / Generalization)</strong> 的畫法。</p>
+            <ul>
+                <li><strong>概念：</strong> 根據 <code>lec3_uml (2).pdf</code> <strong>第 13 頁 (Inheritance)</strong>，繼承關係使用<strong>實線 + 空心三角形箭頭</strong>，箭頭指向父類別 (Base Class)。</li>
+                <li><strong>方法：</strong>
+                    <ol>
+                        <li>畫出類別 <code>A</code> (父類別) 和類別 <code>B</code> (子類別)。</li>
+                        <li>兩者都有 <code>foo()</code> 方法，且都是 <code>public</code> (+)。</li>
+                        <li>畫一條線從 <code>B</code> 指向 <code>A</code>，箭頭端是空心三角形。</li>
+                    </ol>
+                </li>
+            </ul>
+            <span class="ppt-ref">📚 參考來源: lec3_uml (2).pdf, Slide 13</span>
+        </div>
+
+        <div class="diagram-container">
+            <div class="mermaid">
+                classDiagram
+                class A {
+                    +foo()
+                }
+                class B {
+                    +foo()
+                }
+                A <|-- B
+            </div>
+        </div>
+    </div>
+
+    <!-- Question 9 -->
+    <div class="question-box">
+        <h2>Q9. Draw the class diagram for the following C# code.</h2>
+        <p><strong>程式碼片段：</strong></p>
+        <pre><code>public abstract class Base {
+    private int i;
+    protected abstract void bar();
+}
+public class Derived : Base {
+    public int i;
+    protected override void bar() { }
+}</code></pre>
+
+        <div class="explanation">
+            <h3>👨‍🏫 教學解說</h3>
+            <p>這題考的是<strong>抽象類別</strong>與<strong>可見性修飾符 (Visibility)</strong>。</p>
+            <ul>
+                <li><strong>概念：</strong>
+                    <ul>
+                        <li><strong>抽象類別/方法：</strong> 根據 PPT 第 14 頁，抽象名稱通常用<em>斜體</em>表示。在 Mermaid 中，我們使用 <code>*</code> 來標記抽象方法，使其呈現斜體。</li>
+                        <li><strong>可見性 (Slide 6)：</strong>
+                            <ul>
+                                <li><code>private</code> 用 <code>-</code></li>
+                                <li><code>protected</code> 用 <code>#</code></li>
+                                <li><code>public</code> 用 <code>+</code></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li><strong>分析：</strong>
+                    <ul>
+                        <li><code>Base</code> 是抽象類別。<code>i</code> 是 private (<code>-i</code>)。<code>bar()</code> 是 protected abstract (<code>#bar()</code>)。</li>
+                        <li><code>Derived</code> 繼承 <code>Base</code>。它有一個自己的 <code>public i</code> (<code>+i</code>)，並實作了 <code>bar()</code>。</li>
+                    </ul>
+                </li>
+            </ul>
+            <span class="ppt-ref">📚 參考來源: lec3_uml (2).pdf, Slide 6, 13, 14</span>
+        </div>
+
+        <div class="diagram-container">
+            <div class="mermaid">
+                classDiagram
+                class Base {
+                    <<abstract>>
+                    -int i
+                    #bar()*
+                }
+                class Derived {
+                    +int i
+                    #bar()
+                }
+                Base <|-- Derived
+            </div>
+        </div>
+        <p style="text-align: center; font-size: 0.8em; color: #666;">(註：bar() 為斜體，代表抽象方法)</p>
+    </div>
+
+    <!-- Question 10 -->
+    <div class="question-box">
+        <h2>Q10. Draw the sequence diagram for the following C# code.</h2>
+        <div class="explanation">
+            <h3>👨‍🏫 教學解說</h3>
+            <p>這題考的是<strong>循序圖 (Sequence Diagram)</strong>，展示物件之間的互動順序。</p>
+            <ul>
+                <li><strong>概念：</strong> 參考 PPT 第 36-40 頁。
+                    <ul>
+                        <li><strong>Lifeline (生命線)：</strong> 代表參與的物件 (如 <code>:First</code>, <code>:Second</code>)。</li>
+                        <li><strong>Activation (活動條)：</strong> 長條矩形，代表該物件正在執行程式。</li>
+                        <li><strong>Message (訊息)：</strong> 實線箭頭代表呼叫方法，虛線箭頭代表返回。</li>
+                        <li><strong>Creation：</strong> 指向物件本身的箭頭代表 <code>new</code>。</li>
+                    </ul>
+                </li>
+                <li><strong>執行流程分析：</strong>
+                    <ol>
+                        <li><code>Main</code> 建立 <code>First</code> 物件 (<code>f</code>)。</li>
+                        <li><code>Main</code> 呼叫 <code>f.callSe()</code>。</li>
+                        <li><strong>進入 callSe：</strong> <code>f</code> 建立一個 <code>Second</code> 物件 (<code>s</code>)。</li>
+                        <li><code>f</code> 呼叫 <code>s.yay()</code>。</li>
+                        <li>(印出 "and")</li>
+                        <li><code>f</code> 再次呼叫 <code>s.yay()</code>。</li>
+                        <li><strong>回到 Main：</strong> <code>Main</code> 建立一個新的 <code>Second</code> 物件 (<code>s</code>)。</li>
+                        <li><code>Main</code> 呼叫這個新 <code>s</code> 的 <code>yay()</code>。</li>
+                        <li><code>Main</code> 再次呼叫 <code>f.callSe()</code> (重複步驟 3-6)。</li>
+                    </ol>
+                </li>
+            </ul>
+            <span class="ppt-ref">📚 參考來源: lec3_uml (2).pdf, Slide 36-40</span>
+        </div>
+
+        <div class="diagram-container">
+            <div class="mermaid">
+                sequenceDiagram
+                participant Main
+                participant f as f:First
+                participant s1 as s(local):Second
+                participant s2 as s(main):Second
+                participant s3 as s(local2):Second
+
+                Note over Main: Main Start
+                Main->>f: new First()
+                activate f
+                deactivate f
+
+                Note over Main: f.callSe()
+                Main->>f: callSe()
+                activate f
+                f->>s1: new Second()
+                activate s1
+                deactivate s1
+                f->>s1: yay()
+                activate s1
+                deactivate s1
+                Note right of f: Console.WriteLine("and")
+                f->>s1: yay()
+                activate s1
+                deactivate s1
+                deactivate f
+
+                Note over Main: Second s = new Second()
+                Main->>s2: new Second()
+                activate s2
+                deactivate s2
+                Main->>s2: yay()
+                activate s2
+                deactivate s2
+
+                Note over Main: f.callSe() again
+                Main->>f: callSe()
+                activate f
+                f->>s3: new Second()
+                activate s3
+                deactivate s3
+                f->>s3: yay()
+                activate s3
+                deactivate s3
+                Note right of f: Console.WriteLine("and")
+                f->>s3: yay()
+                activate s3
+                deactivate s3
+                deactivate f
+            </div>
+        </div>
+    </div>
+
+    <!-- Question 14 -->
+    <div class="question-box">
+        <h2>Q14. Draw the cause-effect graph (with the mask constraint).</h2>
+        <p><strong>情境：</strong> "Right-click" -> Simplified menu. "Hold Ctrl + Right-click" -> Full menu.</p>
+
+        <div class="explanation">
+            <h3>👨‍🏫 教學解說</h3>
+            <p>這題考的是<strong>因果圖 (Cause-Effect Graph)</strong>，特別是<strong>遮罩約束 (Mask Constraint)</strong>。</p>
+            <ul>
+                <li><strong>概念：</strong> 參考 <code>lec9_testing (1).pdf</code> <strong>第 21-22 頁</strong>。
+                    <ul>
+                        <li><strong>Cause (原因/輸入)：</strong> C1 = Right Click (右鍵), C2 = Hold Ctrl (按住 Ctrl)。</li>
+                        <li><strong>Effect (結果/輸出)：</strong> E1 = Simplified Menu (簡易選單), E2 = Full Menu (完整選單)。</li>
+                        <li><strong>邏輯：</strong>
+                            <ul>
+                                <li>如果只有 C1 -> E1。</li>
+                                <li>如果 C1 和 C2 同時發生 -> E2。</li>
+                            </ul>
+                        </li>
+                        <li><strong>Mask Constraint (遮罩約束)：</strong> PPT 第 22 頁提到了 <code>m</code> (Mask) 約束。
+                            <br>在這裡的意思是：<strong>當按下 Ctrl (C2) 時，原本右鍵會觸發的簡易選單 (E1) 會被「遮蔽」或「抑制」，轉而觸發完整選單。</strong>
+                        </li>
+                    </ul>
+                </li>
+                <li><strong>畫法：</strong>
+                    <ol>
+                        <li>畫出 C1, C2, E1, E2。</li>
+                        <li>C1 指向 E1 (基本行為)。</li>
+                        <li>C1 和 C2 共同指向 E2 (組合行為)。</li>
+                        <li><strong>關鍵點：</strong> 畫一條帶有 <strong>Mask (M)</strong> 標記的約束線，從 C2 指向 E1。這表示「C2 的存在會遮蔽 E1 的發生」。</li>
+                    </ol>
+                </li>
+            </ul>
+            <span class="ppt-ref">📚 參考來源: lec9_testing (1).pdf, Slide 21, 22</span>
+        </div>
+
+        <div class="diagram-container">
+            <div class="mermaid">
+                graph LR
+                %% Nodes
+                C1(("C1: Right Click"))
+                C2(("C2: Hold Ctrl"))
+                E1["E1: Simplified Menu"]
+                E2["E2: Full Menu"]
+                AND_Gate{"AND"}
+
+                %% Logic Relationships
+                C1 --> E1
+                C1 --> AND_Gate
+                C2 --> AND_Gate
+                AND_Gate --> E2
+
+                %% Mask Constraint
+                C2 -.->|Mask Constraint M| E1
+
+                %% Styling
+                style C1 fill:#e1f5fe,stroke:#01579b
+                style C2 fill:#e1f5fe,stroke:#01579b
+                style E1 fill:#fff3e0,stroke:#e65100
+                style E2 fill:#fff3e0,stroke:#e65100
+                style AND_Gate fill:#f3e5f5,stroke:#4a148c
+                
+                %% Link Style - Index 4 is the 5th link (C2 -.-> E1)
+                linkStyle 4 stroke:red,stroke-width:2px,stroke-dasharray: 5 5
+            </div>
+        </div>
+        <p style="text-align: center; font-size: 0.9em;">
+            <span style="color:red; font-weight:bold;">紅色虛線</span> 代表 Mask Constraint：<br>
+            當 C2 (Ctrl) 為真時，E1 (Simplified Menu) 被強制設為 False (被遮蔽)。
+        </p>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,2 @@
+Dependencies for Project 'First', Target 'Target 1': (DO NOT MODIFY !)
+F (.\First.s)(0x68C9345B)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Github\Project_ASM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.1\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 515" --pd "STM32F10X_HD SETA 1"--list .\listings\first.lst --xref -o .\objects\first.o --depend .\objects\first.d)

@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "工作-TaikoGameServer",
+      "appliesTo": "TaikoGameServer/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "工作-TaikoGame",
+      "appliesTo": "TaikoGame/TaikoGame.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\MainWindow.baml
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\App.g.cs
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+D:\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\bgm.wav
+D:\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+D:\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.exe
+D:\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+D:\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+D:\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.dll
+D:\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.pdb
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.dll
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.pdb
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+D:\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\ref\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\bgm.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.exe
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\ref\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\2.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\3.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\1.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\KA1.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\KA2.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\KA3.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\click.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Assets\end.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\scopedcss\bundle\TaikoGame.styles.css
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.Up2Date
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.upToDateCheck.txt
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\1.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\2.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\3.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\bgm.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\click.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\end.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\KA1.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\KA2.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\KA3.wav
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.exe
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\scopedcss\bundle\TaikoGame.styles.css
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.Up2Date
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080Project\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\ref\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\1.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\2.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\3.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\bgm.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\click.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\end.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\KA1.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\KA2.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Assets\KA3.wav
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.exe
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\scopedcss\bundle\TaikoGame.styles.css
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.csproj.Up2Date
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080Project1\TaikoGame\obj\Debug\net8.0-windows\ref\TaikoGame.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\1.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\2.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\3.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\bgm.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\click.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\end.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\KA1.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\KA2.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Assets\KA3.wav
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.exe
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\scopedcss\bundle\TaikoGame.styles.css
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\swae.build.ex.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.Up2Date
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+C:\Users\ccche\Downloads\help\IERG3080Project1 zzz\taikogame\obj\Debug\net8.0-windows\ref\TaikoGame.dll
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\1.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\2.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\3.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\bgm.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\click.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\end.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\KA1.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\KA2.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Assets\KA3.wav
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.exe
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\scopedcss\bundle\TaikoGame.styles.css
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\swae.build.ex.cache
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.Up2Date
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+C:\Users\ccche\Downloads\ierg3080project1zzz\taikogame\obj\Debug\net8.0-windows\ref\TaikoGame.dll
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\TaikoGame.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\1.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\2.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\3.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\bgm.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\click.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\end.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\KA1.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\KA2.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Assets\KA3.wav
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\TaikoGame.exe
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ccche\Downloads\test12\t2\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\scopedcss\bundle\TaikoGame.styles.css
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\swae.build.ex.cache
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.Up2Date
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+C:\Users\ccche\Downloads\test12\t2\taikogame\obj\Debug\net8.0-windows\ref\TaikoGame.dll
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\TaikoGame.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\1.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\2.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\3.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\bgm.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\click.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\end.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\KA1.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\KA2.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Assets\KA3.wav
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\TaikoGame.exe
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ccche\Downloads\t22\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\scopedcss\bundle\TaikoGame.styles.css
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\swae.build.ex.cache
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.Up2Date
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+C:\Users\ccche\Downloads\t22\taikogame\obj\Debug\net8.0-windows\ref\TaikoGame.dll
+C:\Users\ccche\Downloads\t22\TaikoGame\obj\Debug\net8.0-windows\staticwebassets.upToDateCheck.txt
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.AssemblyReference.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame_MarkupCompile.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.g.resources
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\rpswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfoInputs.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.AssemblyInfo.cs
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.CoreCompileInputs.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\refint\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\TaikoGame.staticwebassets.endpoints.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\1.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\2.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\3.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\bgm.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\click.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\drum_hit.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\end.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\KA1.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\KA2.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Assets\KA3.wav
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\TaikoGame.exe
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\TaikoGame.deps.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\TaikoGame.runtimeconfig.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\TaikoGame.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\TaikoGame.pdb
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\rjimswa.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\rjsmrazor.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\rjsmcshtml.dswa.cache.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\scopedcss\bundle\TaikoGame.styles.css
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.json.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\staticwebassets.build.endpoints.json
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\swae.build.ex.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.csproj.Up2Date
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\TaikoGame.genruntimeconfig.cache
+C:\Users\ccche\Downloads\IERG3080_Project_Group21\VisualStudioProject\taikogame\obj\Debug\net8.0-windows\ref\TaikoGame.dll

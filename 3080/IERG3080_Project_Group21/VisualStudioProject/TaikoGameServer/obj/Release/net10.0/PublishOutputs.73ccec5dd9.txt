@@ -1,0 +1,9 @@
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\TaikoGameServer.exe
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\TaikoGameServer.dll
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\TaikoGameServer.deps.json
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\TaikoGameServer.runtimeconfig.json
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\TaikoGameServer.pdb
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ccche\Downloads\t22\TaikoGameServer\obj\Release\net10.0\PubTmp\Out\Microsoft.OpenApi.dll

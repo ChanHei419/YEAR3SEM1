@@ -1,0 +1,41 @@
+<!-- Problem 5 -->
+<!-- 1155212799 -->
+<!-- I used Ai to ask how my html file can connect to backend like adding the name -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BMI Calculation</title>
+  </head>
+  <body>
+    <h1>BMI Calculation</h1>
+    <form action="/model" method="post">
+      <div>
+        <label for="height">Height (in m):</label>
+        <input
+          type="number"
+          id="height"
+          name="height"
+          step="any"
+          min="0"
+          max="2.5"
+          required
+        />
+      </div>
+      <div>
+        <label for="weight">Weight (in kg):</label>
+        <input
+          type="number"
+          id="weight"
+          name="weight"
+          step="any"
+          min="0"
+          max="150"
+          required
+        />
+      </div>
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
+</html>
