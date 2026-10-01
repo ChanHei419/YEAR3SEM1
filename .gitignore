@@ -1,0 +1,44 @@
+# Embedded / Keil build output
+ierg3810/**/Objects/
+ierg3810/**/Listings/
+ierg3810/**/*.o
+ierg3810/**/*.d
+ierg3810/**/*.crf
+ierg3810/**/*.lst
+ierg3810/**/*.map
+ierg3810/**/*.axf
+ierg3810/**/*.hex
+ierg3810/**/*.dep
+ierg3810/**/*.lnp
+ierg3810/**/*.iex
+ierg3810/**/*.sct
+ierg3810/**/*.htm
+ierg3810/**/*.build_log.htm
+
+# Android / Gradle / IDE
+3842/**/build/
+3842/**/.gradle/
+3842/**/.idea/
+3842/**/local.properties
+3842/**/*.apk
+3842/**/*.iml
+3080/**/bin/
+3080/**/obj/
+3080/**/.vs/
+3080/**/*.user
+3080/**/*.suo
+3080/**/*.vsidx
+
+# Python
+__pycache__/
+*.pyc
+
+# Compiled C executables
+*.exe
+a.out
+*.out
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
