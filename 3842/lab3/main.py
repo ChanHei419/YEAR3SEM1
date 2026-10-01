@@ -1,6 +1,6 @@
-#mongodb+srv://cccheilllun419:1155212799@cluster1155.mdxxcaj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1155
-# 檔案路徑: C:\Github\3842\lab3\main.py
-# 檔案路徑: C:\Github\3842\lab3\main.py
+# 檔案路徑: 3842/lab3/main.py
+
+import os
 
 from fastapi import FastAPI
 from pydantic import BaseModel, EmailStr, Field
@@ -12,8 +12,10 @@ import certifi
 app = FastAPI()
 
 # --- MongoDB 連接 ---
-# *** 重要：請務必將 <ID>, <PASSWORD>, <CLUSTERNAME> 換成你自己的 MongoDB Atlas 資訊 ***
-uri = "mongodb+srv://cccheilllun419:1155212799@cluster1155.mdxxcaj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1155"
+# 憑證唔好寫入程式碼：請設定環境變數 MONGODB_URI
+uri = os.environ.get("MONGODB_URI")
+if not uri:
+    raise RuntimeError("請先設定 MONGODB_URI 環境變數（MongoDB Atlas 連線字串）")
 
 try:
     # 使用 certifi 來處理 SSL 憑證
